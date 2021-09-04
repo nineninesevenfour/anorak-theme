@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.1",
+  "version": "1.2",
   "name": "Anorak",
   "theme": {
     "images": {
@@ -32,6 +32,7 @@
       "popup_border": "rgb(255, 213, 81)",
       "sidebar_highlight_text": "rgb(0, 0, 0)",
       "sidebar_highlight": "rgb(255, 213, 81)",
+      "sidebar_text": "rgb(255, 255, 255)",
       "sidebar": "rgb(82, 0, 155)",
       "tab_selected": "rgb(255, 255, 255)",
       "tab_text": "rgb(107, 0, 203)",
